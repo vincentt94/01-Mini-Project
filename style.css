@@ -1,0 +1,39 @@
+/* universal selector */
+*{
+
+
+}
+/* element selector */
+header {
+
+
+}
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font=size 20px;
+    background-color: hsl(51, 69%, 86%); 
+    color: #022abc;
+}
+
+
+/* class selector */
+.contact-info{
+    text-align: right;
+    position: fixed ;
+    font-size: 15px;
+}
+
+.red-text{
+    color: red;
+}
+.title-center{
+  text-align: center ;
+  color:black ;
+  font-size: 60px ;
+}
+
+.footer{
+    text-align: center;
+    color: black;
+    font-size: 12px;
+}
